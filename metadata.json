@@ -1,0 +1,5 @@
+{
+  "name": "Leitor de EPUB em Chat",
+  "description": "Faça o upload de um arquivo EPUB e leia o livro parágrafo por parágrafo em uma interface de chat.",
+  "requestFramePermissions": []
+}
