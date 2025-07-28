@@ -2,6 +2,9 @@
 # Leitor de Livros em Chat (EPUB & TXT)
 Site: https://leitor-de-epub-em-chat-1098215553643.us-west1.run.app/
 
+<img width="463" height="620" alt="image" src="https://github.com/user-attachments/assets/359d4176-71f8-4ab2-bdfc-ee72decf84ab" />
+
+
 Este é um leitor de livros digital acessível pelo navegador, que transforma arquivos `.epub` e `.txt` em uma experiência de leitura interativa, semelhante a um chat. O aplicativo exibe o conteúdo parágrafo por parágrafo, oferecendo funcionalidades avançadas como narração por voz, controle de velocidade e navegação rápida.
 
 ## ✨ Funcionalidades
